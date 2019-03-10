@@ -1,6 +1,6 @@
 # simple_spell_checker
 
-A simple spell checker written in python 3. 
+A simple spell checker written in python 3. https://github.com/YuhongZhang98/simple_spell_checker/
 
 ## Packages
 The application is using pyspellchecker 0.4.0. To install, 
